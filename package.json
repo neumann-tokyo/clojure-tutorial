@@ -1,0 +1,16 @@
+{
+  "name": "clojure-tutorial",
+  "description": "clojure-tutorial",
+  "version": "0.0.0",
+  "author": "馬場一樹 <kbaba1001@neumann.tokyo>",
+  "scripts": {
+    "build": "vivliostyle build",
+    "preview": "vivliostyle preview"
+  },
+  "dependencies": {
+    "@vivliostyle/cli": "latest",
+    "@vivliostyle/theme-techbook": "^0.4.1"
+  },
+  "license": "MIT",
+  "private": true
+}
