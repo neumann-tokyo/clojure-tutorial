@@ -11,6 +11,6 @@
     "@vivliostyle/cli": "latest",
     "@vivliostyle/theme-techbook": "^0.4.1"
   },
-  "license": "MIT",
+  "license": "クリエイティブ・コモンズ 表示 - 継承 4.0 国際 ライセンス",
   "private": true
 }
